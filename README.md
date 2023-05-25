@@ -52,7 +52,7 @@ $ brain-progression
 Запуск игры
 $ brain-prime
 Пример игры
-
+[![asciicast](https://asciinema.org/a/I5j1tzTU1Tzj36pOWOkQC6RFm.svg)](https://asciinema.org/a/I5j1tzTU1Tzj36pOWOkQC6RFm)
 
 
 
