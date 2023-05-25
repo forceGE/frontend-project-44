@@ -1,6 +1,6 @@
-import generateRandomNumber from '../randomNumberGenerator';
+import generateRandomNumber from '../randomNumberGenerator.js';
 
-import startGame from '../index';
+import startGame from '../index.js';
 
 const rule = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
