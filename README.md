@@ -21,3 +21,12 @@ $ sudo npm link
 $ brain-even
 Пример игры:
 [![asciicast](https://asciinema.org/a/V6yJoZ6ClKPiGNGdQUMuuCpHD.svg)](https://asciinema.org/a/V6yJoZ6ClKPiGNGdQUMuuCpHD)
+
+Игра: "Калькулятор"
+Суть игры в следующем: игроку показывается случайное математическое выражение, например <strong>35 + 16</strong>, которое нужно вычислить и записать правильный ответ.
+
+Запуск игры
+$ brain-calc
+Пример игры
+[![asciicast](https://asciinema.org/a/erUCpCpJZMwAC1epH6cJ6tRjG.svg)](https://asciinema.org/a/erUCpCpJZMwAC1epH6cJ6tRjG)
+
