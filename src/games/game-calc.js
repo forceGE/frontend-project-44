@@ -1,6 +1,6 @@
-import generateRandomNumber from '../randomNumberGenerator.js';
+import generateRandomNumber from '../randomNumberGenerator';
 
-import startGame from '../index.js';
+import startGame from '../index';
 
 const rule = 'What is the result of the expression?';
 

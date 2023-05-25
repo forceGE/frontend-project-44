@@ -1,6 +1,6 @@
-import generateRandomNumber from '../randomNumberGenerator.js';
+import generateRandomNumber from '../randomNumberGenerator';
 
-import startGame from '../index.js';
+import startGame from '../index';
 
 const rule = 'Answer "yes" if the number is even, otherwise answer "no".';
 
