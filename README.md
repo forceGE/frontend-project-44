@@ -46,6 +46,12 @@ $ brain-progression
 Пример игры
 [![asciicast](https://asciinema.org/a/GT6NbKjXup06DRnKlqauvC6P4.svg)](https://asciinema.org/a/GT6NbKjXup06DRnKlqauvC6P4)
 
+Игра: "Простое ли число?"
+Суть игры в следующем: игроку показывается случайное число. Ему нужно ответить yes, если число простое, или no — если нет.
+
+Запуск игры
+$ brain-prime
+Пример игры
 
 
 
