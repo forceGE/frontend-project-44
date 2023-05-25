@@ -30,3 +30,13 @@ $ brain-calc
 Пример игры
 [![asciicast](https://asciinema.org/a/erUCpCpJZMwAC1epH6cJ6tRjG.svg)](https://asciinema.org/a/erUCpCpJZMwAC1epH6cJ6tRjG)
 
+Игра: "НОД"
+Суть игры в следующем: игроку показывается два случайных числа, например, 25 50. Игрок должен вычислить и ввести наибольший общий делитель этих чисел.
+
+Запуск игры
+$ brain-gcd
+Пример игры
+[![asciicast](https://asciinema.org/a/tFT19gXAGPg7v7dR4ugEfdX4Q.svg)](https://asciinema.org/a/tFT19gXAGPg7v7dR4ugEfdX4Q)
+
+
+
