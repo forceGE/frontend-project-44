@@ -38,5 +38,15 @@ $ brain-gcd
 Пример игры
 [![asciicast](https://asciinema.org/a/tFT19gXAGPg7v7dR4ugEfdX4Q.svg)](https://asciinema.org/a/tFT19gXAGPg7v7dR4ugEfdX4Q)
 
+Игра: "Арифметическая прогрессия"
+Суть игры в следующем: игроку показывается ряд чисел, образующий арифметическую прогрессию. Игрок должен отгадать число, которое находится за точками.
+
+Запуск игры
+$ brain-progression
+Пример игры
+[![asciicast](https://asciinema.org/a/GT6NbKjXup06DRnKlqauvC6P4.svg)](https://asciinema.org/a/GT6NbKjXup06DRnKlqauvC6P4)
+
+
+
 
 
